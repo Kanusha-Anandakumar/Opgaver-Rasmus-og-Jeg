@@ -2,7 +2,7 @@
 
 //programmet skal udskrive prisen på 10 kg kartofler med moms
 
-float moms = 0.25;
+float moms = 1.25;
 float kartoflerPrKilo = 6.50;
 float antal = 10; 
 
